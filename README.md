@@ -10,9 +10,7 @@ In this code, we are going to implement the most widely used image segmentation 
 
 # Architecture
 
-
-
-
+![vgg19_Unet](https://github.com/khajaraouf/Segmentation_VGG19_UNet/assets/70451209/473aa1f7-7d2e-441b-9309-dd404202fd5b)
 
 # Reference Papers
 
